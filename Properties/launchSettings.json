@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WriteSqlObjects": {
+      "commandName": "Project",
+      "commandLineArgs": "-prod -service"
+    }
+  }
+}
